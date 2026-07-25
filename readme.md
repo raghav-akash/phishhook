@@ -13,7 +13,7 @@
 <h2 align="center">Dashboard</h2>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900">
+  <img src="screenshots/frontend.png" width="900">
 </p>
 
 ---
